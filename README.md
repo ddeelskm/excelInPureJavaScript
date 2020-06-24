@@ -2,6 +2,11 @@ Excel
 ---
 All the changes you see in the commits.
 ---
+update 24.06.2020/
+- Creating elements for a resize.
+
+---
+
 update 23.06.2020/
 - Output of the component template.
 - The formation of the layout.
