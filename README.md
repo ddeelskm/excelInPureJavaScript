@@ -2,6 +2,11 @@ Excel
 ---
 All the changes you see in the commits.
 ---
+update 25.06.2020/
+- The size of the speakers.
+- Resize rows.
+- Optimization.
+---
 update 24.06.2020/
 - Creating elements for a resize.
 
