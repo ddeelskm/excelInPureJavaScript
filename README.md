@@ -2,6 +2,10 @@ Excel
 ---
 All the changes you see in the commits.
 ---
+update 26.06.2020/
+- Cell selection.
+- Select a group of cells.
+---
 update 25.06.2020/
 - The size of the speakers.
 - Resize rows.
