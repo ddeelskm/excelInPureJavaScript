@@ -2,6 +2,9 @@ Excel
 ---
 All the changes you see in the commits.
 ---
+update 27.06.2020
+- Selection of the cell.
+---
 update 26.06.2020/
 - Cell selection.
 - Select a group of cells.
