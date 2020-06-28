@@ -2,6 +2,10 @@ Excel
 ---
 All the changes you see in the commits.
 ---
+update 28.06.2020
+- Navigation with buttons.
+- Implementation of observer.
+---
 update 27.06.2020
 - Selection of the cell.
 ---
